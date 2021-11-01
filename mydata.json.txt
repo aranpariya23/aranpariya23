@@ -1,7 +1,5 @@
   {
-    "age":"23",
-    "name":"srinivas",
-    "blog":"http://blog.sodhanalibrary.com",
-    "messages":["msg1","msg2","msg3"] 
+    "status":"0",
+    "ad_count":"8"
   }
          
