@@ -1,13 +1,16 @@
-[  {
-"pkg":""
-    "status":"1",
-    "ad_count":"8"
-  },
-  
-   {
-"pkg":""
-    "status":"1",
-    "ad_count":"8"
-    }
-  
-         ]
+[
+  {
+    "pkg":"com.example",
+    "ads":"0",
+    "bid":"",
+    "iid":"" 
+  }
+         ,
+           {
+    "pkg":"com.example",
+    "ads":"0",
+    "bid":"",
+    "iid":"" 
+  }
+         
+]
