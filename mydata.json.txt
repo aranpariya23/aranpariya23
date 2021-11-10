@@ -1,6 +1,6 @@
 [
   {
-    "pkg":"com.example",
+    "pkg":" com.example.universal.Activity",
     "ads":"0",
     "bid":"",
     "iid":"" 
