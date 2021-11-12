@@ -7,7 +7,7 @@
   }
          ,
            {
-    "pkg":"com.example",
+    "pkg":"com.example.starradar",
     "ads":"0",
     "bid":"",
     "iid":"" 
